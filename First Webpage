@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Galaxies</title>
+  <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Raleway:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+		
+	<div class="navigation">
+	  <ul>
+		<li><a href="https://en.wikipedia.org/wiki/Local_Group">Local Group</li>
+		<li><a href="https://en.wikipedia.org/wiki/Milky_Way">Milky Way Galaxy</li>
+		<li class="logo">Our Spacial Address</li>
+		<li><a href="https://en.wikipedia.org/wiki/Astronomy">Astronomy</li>
+		<li><a href="">NASA</li>
+	  <ul>
+	</div>
+			
+	<div class="banner">
+	  <div id="banner-content">
+		<h1>Our Local Group</h1>
+	  </div> 
+	</div>
+
+	<div class="content">
+	  <h3>The term "The Local Group" was introduced by Edwin Hubble in Chapter VI of his 1936 book The Realm of the Nebulae. There, he described it as "a typical small group of nebulae which is isolated in the general field" and delineated, by decreasing luminosity, its members to be M31, Milky Way, M33, Large Magellanic Cloud, Small Magellanic Cloud, M32, NGC 205, NGC 6822, NGC 185, IC 1613 and NGC 147. He also identified IC 10 as a possible Local Group member.</h3>
+	  <span class="byline">Written by: Edwin Hubble</span>
+	  <p>The Local Group is the galaxy group that includes the Milky Way. The Local Group
+comprises more than 54 galaxies, most of them dwarf galaxies. Its gravitational center is located somewhere between the Milky Way and the Andromeda Galaxy. The Local Group covers a diameter of 10 Mly (3.1 Mpc) (about 1023 meters) and has a binary (dumbbell) distribution. The group itself is a part of the larger Virgo Supercluster, which in turn may be a part of the Laniakea Supercluster.</p>
+	  
+	  <p>The Andromeda Galaxy's satellite system consists of Messier 32 (M32), Messier 110 (
+M110), NGC 147, NGC 185, Andromeda I (And I), And II, And III, And IV, And V, Pegasus 
+dSph (also known as And VI), Cassiopeia Dwarf (also known as And VII), And VIII, AndIX, 
+And X, And XI, And XIX, And XXI and And XXII, plus several additional ultra-faint 
+dwarf spheroidal galaxies.</p>
+		
+      <p>Milky Way's satellite galaxies system comprises Sagittarius Dwarf Galaxy, Large 
+Magellanic Cloud, Small Magellanic Cloud, Canis Major Dwarf (disputed, considered by some not a galaxy), Ursa Minor Dwarf, Draco Dwarf, Carina Dwarf, Sextans Dwarf, Sculptor Dwarf, Fornax Dwarf, Leo I, Leo II, and Ursa Major I Dwarf and Ursa Major II Dwarf, plus several additional ultra-faint dwarf spheroidal galaxies.</p>
+        
+      <div class="pull-quote">
+        <h2>The Local Group covers a diameter of 10 Mly (3.1 Mpc) (about 10^23 meters)</h2>
+      </div>  
+      <p>The Triangulum Galaxy may or may not be a companion to the Andromeda Galaxy. 
+Pisces Dwarf is equidistant from the Andromeda Galaxy and the Triangulum Galaxy, so it may be a satellite of either.</p>
+        
+      <p>The membership of NGC 3109, with its companions Sextans A and the Antlia Dwarf, is 
+uncertain due to extreme distances from the center of the Local Group.</p>
+      <p>The other members of the group are likely gravitationally secluded from these 
+large subgroups: IC 10, IC 1613, Phoenix Dwarf, Leo A, Tucana Dwarf, Cetus Dwarf, Pegasus Dwarf Irregular, Wolf–Lundmark–Melotte, Aquarius Dwarf, and Sagittarius Dwarf Irregular.</p>
+    </div>
+			
+    <div class="Links">
+	  <a href="index.html">Our Local</a>
+	  <a href="page2.html">Milky Way Galaxy</a>
+	  <a href="page3.html">Andromeda Galaxy</a>
+	</div>
+    <footer>Our Universe @ 2017</footer>        
+
+</body>
+</html>
